@@ -1,0 +1,14 @@
+D:\Projetos\C#\pedrohp28\BitBank\BitBank\bin\Debug\net8.0\BitBank.exe
+D:\Projetos\C#\pedrohp28\BitBank\BitBank\bin\Debug\net8.0\BitBank.deps.json
+D:\Projetos\C#\pedrohp28\BitBank\BitBank\bin\Debug\net8.0\BitBank.runtimeconfig.json
+D:\Projetos\C#\pedrohp28\BitBank\BitBank\bin\Debug\net8.0\BitBank.dll
+D:\Projetos\C#\pedrohp28\BitBank\BitBank\bin\Debug\net8.0\BitBank.pdb
+D:\Projetos\C#\pedrohp28\BitBank\BitBank\obj\Debug\net8.0\BitBank.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\C#\pedrohp28\BitBank\BitBank\obj\Debug\net8.0\BitBank.AssemblyInfoInputs.cache
+D:\Projetos\C#\pedrohp28\BitBank\BitBank\obj\Debug\net8.0\BitBank.AssemblyInfo.cs
+D:\Projetos\C#\pedrohp28\BitBank\BitBank\obj\Debug\net8.0\BitBank.csproj.CoreCompileInputs.cache
+D:\Projetos\C#\pedrohp28\BitBank\BitBank\obj\Debug\net8.0\BitBank.dll
+D:\Projetos\C#\pedrohp28\BitBank\BitBank\obj\Debug\net8.0\refint\BitBank.dll
+D:\Projetos\C#\pedrohp28\BitBank\BitBank\obj\Debug\net8.0\BitBank.pdb
+D:\Projetos\C#\pedrohp28\BitBank\BitBank\obj\Debug\net8.0\BitBank.genruntimeconfig.cache
+D:\Projetos\C#\pedrohp28\BitBank\BitBank\obj\Debug\net8.0\ref\BitBank.dll

@@ -1,0 +1,219 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projetos\\C#\\pedrohp28\\BitBank\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33DD6E7F-A544-4EB2-8549-88DD0B216399}|BitBank\\BitBank.csproj|d:\\projetos\\c#\\pedrohp28\\bitbank\\bitbank\\mainclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33DD6E7F-A544-4EB2-8549-88DD0B216399}|BitBank\\BitBank.csproj|solutionrelative:bitbank\\mainclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33DD6E7F-A544-4EB2-8549-88DD0B216399}|BitBank\\BitBank.csproj|d:\\projetos\\c#\\pedrohp28\\bitbank\\bitbank\\parceiros\\parceirocomercial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33DD6E7F-A544-4EB2-8549-88DD0B216399}|BitBank\\BitBank.csproj|solutionrelative:bitbank\\parceiros\\parceirocomercial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33DD6E7F-A544-4EB2-8549-88DD0B216399}|BitBank\\BitBank.csproj|d:\\projetos\\c#\\pedrohp28\\bitbank\\bitbank\\sistemas\\iautenticavel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33DD6E7F-A544-4EB2-8549-88DD0B216399}|BitBank\\BitBank.csproj|solutionrelative:bitbank\\sistemas\\iautenticavel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33DD6E7F-A544-4EB2-8549-88DD0B216399}|BitBank\\BitBank.csproj|d:\\projetos\\c#\\pedrohp28\\bitbank\\bitbank\\sistemas\\sistemainterno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33DD6E7F-A544-4EB2-8549-88DD0B216399}|BitBank\\BitBank.csproj|solutionrelative:bitbank\\sistemas\\sistemainterno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33DD6E7F-A544-4EB2-8549-88DD0B216399}|BitBank\\BitBank.csproj|d:\\projetos\\c#\\pedrohp28\\bitbank\\bitbank\\funcionarios\\funcionarioautenticavel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33DD6E7F-A544-4EB2-8549-88DD0B216399}|BitBank\\BitBank.csproj|solutionrelative:bitbank\\funcionarios\\funcionarioautenticavel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33DD6E7F-A544-4EB2-8549-88DD0B216399}|BitBank\\BitBank.csproj|d:\\projetos\\c#\\pedrohp28\\bitbank\\bitbank\\funcionarios\\diretor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33DD6E7F-A544-4EB2-8549-88DD0B216399}|BitBank\\BitBank.csproj|solutionrelative:bitbank\\funcionarios\\diretor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33DD6E7F-A544-4EB2-8549-88DD0B216399}|BitBank\\BitBank.csproj|d:\\projetos\\c#\\pedrohp28\\bitbank\\bitbank\\funcionarios\\gerentedeconta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33DD6E7F-A544-4EB2-8549-88DD0B216399}|BitBank\\BitBank.csproj|solutionrelative:bitbank\\funcionarios\\gerentedeconta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33DD6E7F-A544-4EB2-8549-88DD0B216399}|BitBank\\BitBank.csproj|d:\\projetos\\c#\\pedrohp28\\bitbank\\bitbank\\funcionarios\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33DD6E7F-A544-4EB2-8549-88DD0B216399}|BitBank\\BitBank.csproj|solutionrelative:bitbank\\funcionarios\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33DD6E7F-A544-4EB2-8549-88DD0B216399}|BitBank\\BitBank.csproj|d:\\projetos\\c#\\pedrohp28\\bitbank\\bitbank\\funcionarios\\designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33DD6E7F-A544-4EB2-8549-88DD0B216399}|BitBank\\BitBank.csproj|solutionrelative:bitbank\\funcionarios\\designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33DD6E7F-A544-4EB2-8549-88DD0B216399}|BitBank\\BitBank.csproj|d:\\projetos\\c#\\pedrohp28\\bitbank\\bitbank\\bitbank.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{33DD6E7F-A544-4EB2-8549-88DD0B216399}|BitBank\\BitBank.csproj|solutionrelative:bitbank\\bitbank.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33DD6E7F-A544-4EB2-8549-88DD0B216399}|BitBank\\BitBank.csproj|d:\\projetos\\c#\\pedrohp28\\bitbank\\bitbank\\funcionarios\\auxiliar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33DD6E7F-A544-4EB2-8549-88DD0B216399}|BitBank\\BitBank.csproj|solutionrelative:bitbank\\funcionarios\\auxiliar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33DD6E7F-A544-4EB2-8549-88DD0B216399}|BitBank\\BitBank.csproj|d:\\projetos\\c#\\pedrohp28\\bitbank\\bitbank\\funcionarios\\gerenciadordebonificacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33DD6E7F-A544-4EB2-8549-88DD0B216399}|BitBank\\BitBank.csproj|solutionrelative:bitbank\\funcionarios\\gerenciadordebonificacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainClass.cs",
+              "DocumentMoniker": "D:\\Projetos\\C#\\pedrohp28\\BitBank\\BitBank\\MainClass.cs",
+              "RelativeDocumentMoniker": "BitBank\\MainClass.cs",
+              "ToolTip": "D:\\Projetos\\C#\\pedrohp28\\BitBank\\BitBank\\MainClass.cs",
+              "RelativeToolTip": "BitBank\\MainClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T14:30:08.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SistemaInterno.cs",
+              "DocumentMoniker": "D:\\Projetos\\C#\\pedrohp28\\BitBank\\BitBank\\Sistemas\\SistemaInterno.cs",
+              "RelativeDocumentMoniker": "BitBank\\Sistemas\\SistemaInterno.cs",
+              "ToolTip": "D:\\Projetos\\C#\\pedrohp28\\BitBank\\BitBank\\Sistemas\\SistemaInterno.cs",
+              "RelativeToolTip": "BitBank\\Sistemas\\SistemaInterno.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T22:36:51.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAutenticavel.cs",
+              "DocumentMoniker": "D:\\Projetos\\C#\\pedrohp28\\BitBank\\BitBank\\Sistemas\\IAutenticavel.cs",
+              "RelativeDocumentMoniker": "BitBank\\Sistemas\\IAutenticavel.cs",
+              "ToolTip": "D:\\Projetos\\C#\\pedrohp28\\BitBank\\BitBank\\Sistemas\\IAutenticavel.cs",
+              "RelativeToolTip": "BitBank\\Sistemas\\IAutenticavel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T22:51:34.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ParceiroComercial.cs",
+              "DocumentMoniker": "D:\\Projetos\\C#\\pedrohp28\\BitBank\\BitBank\\Parceiros\\ParceiroComercial.cs",
+              "RelativeDocumentMoniker": "BitBank\\Parceiros\\ParceiroComercial.cs",
+              "ToolTip": "D:\\Projetos\\C#\\pedrohp28\\BitBank\\BitBank\\Parceiros\\ParceiroComercial.cs",
+              "RelativeToolTip": "BitBank\\Parceiros\\ParceiroComercial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T23:03:16.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FuncionarioAutenticavel.cs",
+              "DocumentMoniker": "D:\\Projetos\\C#\\pedrohp28\\BitBank\\BitBank\\Funcionarios\\FuncionarioAutenticavel.cs",
+              "RelativeDocumentMoniker": "BitBank\\Funcionarios\\FuncionarioAutenticavel.cs",
+              "ToolTip": "D:\\Projetos\\C#\\pedrohp28\\BitBank\\BitBank\\Funcionarios\\FuncionarioAutenticavel.cs",
+              "RelativeToolTip": "BitBank\\Funcionarios\\FuncionarioAutenticavel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T12:02:10.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Diretor.cs",
+              "DocumentMoniker": "D:\\Projetos\\C#\\pedrohp28\\BitBank\\BitBank\\Funcionarios\\Diretor.cs",
+              "RelativeDocumentMoniker": "BitBank\\Funcionarios\\Diretor.cs",
+              "ToolTip": "D:\\Projetos\\C#\\pedrohp28\\BitBank\\BitBank\\Funcionarios\\Diretor.cs",
+              "RelativeToolTip": "BitBank\\Funcionarios\\Diretor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T07:29:18.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GerenteDeConta.cs",
+              "DocumentMoniker": "D:\\Projetos\\C#\\pedrohp28\\BitBank\\BitBank\\Funcionarios\\GerenteDeConta.cs",
+              "RelativeDocumentMoniker": "BitBank\\Funcionarios\\GerenteDeConta.cs",
+              "ToolTip": "D:\\Projetos\\C#\\pedrohp28\\BitBank\\BitBank\\Funcionarios\\GerenteDeConta.cs",
+              "RelativeToolTip": "BitBank\\Funcionarios\\GerenteDeConta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T09:34:15.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "D:\\Projetos\\C#\\pedrohp28\\BitBank\\BitBank\\Funcionarios\\Funcionario.cs",
+              "RelativeDocumentMoniker": "BitBank\\Funcionarios\\Funcionario.cs",
+              "ToolTip": "D:\\Projetos\\C#\\pedrohp28\\BitBank\\BitBank\\Funcionarios\\Funcionario.cs",
+              "RelativeToolTip": "BitBank\\Funcionarios\\Funcionario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T07:17:40.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Designer.cs",
+              "DocumentMoniker": "D:\\Projetos\\C#\\pedrohp28\\BitBank\\BitBank\\Funcionarios\\Designer.cs",
+              "RelativeDocumentMoniker": "BitBank\\Funcionarios\\Designer.cs",
+              "ToolTip": "D:\\Projetos\\C#\\pedrohp28\\BitBank\\BitBank\\Funcionarios\\Designer.cs",
+              "RelativeToolTip": "BitBank\\Funcionarios\\Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T09:33:28.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BitBank.csproj",
+              "DocumentMoniker": "D:\\Projetos\\C#\\pedrohp28\\BitBank\\BitBank\\BitBank.csproj",
+              "RelativeDocumentMoniker": "BitBank\\BitBank.csproj",
+              "ToolTip": "D:\\Projetos\\C#\\pedrohp28\\BitBank\\BitBank\\BitBank.csproj",
+              "RelativeToolTip": "BitBank\\BitBank.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-08T22:36:20.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Auxiliar.cs",
+              "DocumentMoniker": "D:\\Projetos\\C#\\pedrohp28\\BitBank\\BitBank\\Funcionarios\\Auxiliar.cs",
+              "RelativeDocumentMoniker": "BitBank\\Funcionarios\\Auxiliar.cs",
+              "ToolTip": "D:\\Projetos\\C#\\pedrohp28\\BitBank\\BitBank\\Funcionarios\\Auxiliar.cs",
+              "RelativeToolTip": "BitBank\\Funcionarios\\Auxiliar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T09:33:42.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GerenciadorDeBonificacao.cs",
+              "DocumentMoniker": "D:\\Projetos\\C#\\pedrohp28\\BitBank\\BitBank\\Funcionarios\\GerenciadorDeBonificacao.cs",
+              "RelativeDocumentMoniker": "BitBank\\Funcionarios\\GerenciadorDeBonificacao.cs",
+              "ToolTip": "D:\\Projetos\\C#\\pedrohp28\\BitBank\\BitBank\\Funcionarios\\GerenciadorDeBonificacao.cs",
+              "RelativeToolTip": "BitBank\\Funcionarios\\GerenciadorDeBonificacao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T07:43:19.341Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
